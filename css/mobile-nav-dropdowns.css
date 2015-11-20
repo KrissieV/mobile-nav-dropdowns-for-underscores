@@ -1,0 +1,6 @@
+.dropdown-trigger {
+	cursor: pointer;
+}
+ul.sub-menu.open {
+	display: block;
+}
